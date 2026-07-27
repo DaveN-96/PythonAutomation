@@ -7,7 +7,7 @@ Repo for task automation projects using Python.
 Collects usage metrics for my Ubuntu Server virtual machine through SSH functionality. Prints these statistics and also saves them to a file.
 
 ## Requirements
-Requires paramiko to run (pip install paramiko)
+Requires paramiko to run (`pip install paramiko` in PowerShell)
 
 ## A note on credentials
 Password credentials are handled via environment variables rather than being hardcoded.
