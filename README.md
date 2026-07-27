@@ -1,4 +1,5 @@
 # PythonAutomation
+Repo for task automation projects using Python.
 
 # VM health monitor
 
